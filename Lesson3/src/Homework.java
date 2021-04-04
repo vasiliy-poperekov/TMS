@@ -8,7 +8,7 @@ public class Homework {
         System.out.println(operation(0));
         System.out.println(calculateCountOfOddElementsInMatrix(new int[]{1, 2, 3, 4, 5, 6}));
         calculateSumOfDiagonalElements();
-        countDevs(12);
+        countDevs(111);
         foobar(6);
         foobar(10);
         foobar(15);
@@ -68,18 +68,15 @@ public class Homework {
      */
     public static int calculateCountOfOddElementsInMatrix(int[] ints) {
         // тут пишем логику
+        int counter = 0;
         if (ints != null && ints.length > 0) {
-            int counter = 0;
             for (int element : ints) {
                 if (element % 2 != 0) {
                     counter++;
                 }
             }
-            return counter;
         }
-        {
-            return 0;
-        }
+        return counter;
     }
 
     /**
@@ -95,7 +92,7 @@ public class Homework {
         // тут пишем логику
         System.out.println("_COUNT_ программистов");
         if (count >= 0) {
-            if (count >= 11 && count <= 14) {
+            if (count%100 >= 11 && count%100 <= 14) {
                 System.out.println(count + " программистов");
             } else {
                 switch (count % 10) {
