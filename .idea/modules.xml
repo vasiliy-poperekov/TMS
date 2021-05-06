@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjectMain.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjectMain.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson 10/Lesson 10.iml" filepath="$PROJECT_DIR$/Lesson 10/Lesson 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson 11/Lesson 11.iml" filepath="$PROJECT_DIR$/Lesson 11/Lesson 11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson 7/Lesson 7.iml" filepath="$PROJECT_DIR$/Lesson 7/Lesson 7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson 8/Lesson 8.iml" filepath="$PROJECT_DIR$/Lesson 8/Lesson 8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson 9/Lesson 9.iml" filepath="$PROJECT_DIR$/Lesson 9/Lesson 9.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lesson4/Lesson4.iml" filepath="$PROJECT_DIR$/Lesson4/Lesson4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson5/Lesson5.iml" filepath="$PROJECT_DIR$/Lesson5/Lesson5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lesson6/Lesson6.iml" filepath="$PROJECT_DIR$/Lesson6/Lesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-test/maven-test.iml" filepath="$PROJECT_DIR$/maven-test/maven-test.iml" />
     </modules>
   </component>
 </project>
